@@ -106,7 +106,7 @@
                         alt=""
                         class="rounded-circle mr-2 profile-picture"
                       />
-                      Hi, Vion
+                      Hi, Vional
                     </a>
                     <div class="dropdown-menu">
                       
@@ -119,7 +119,7 @@
                 <ul class="navbar-nav d-block d-lg-none">
                   <li class="nav-item">
                     <a href="#" class="nav-link">
-                      Hi, Vionaa
+                      Hi, Vional
                     </a>
                   </li>
                   <li class="nav-item">
