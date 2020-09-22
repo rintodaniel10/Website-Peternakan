@@ -106,7 +106,7 @@
                         alt=""
                         class="rounded-circle mr-2 profile-picture"
                       />
-                      Hi, Vionaa
+                      Hi, Vion
                     </a>
                     <div class="dropdown-menu">
                       

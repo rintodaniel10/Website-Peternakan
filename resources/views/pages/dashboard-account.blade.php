@@ -115,15 +115,6 @@
                                                                 <select v-else class="form-control"></select>
                                                             </div>
                                                             </div>
-                                                         <div class="col-md-4">
-                                                            <div class="form-group">
-                                                                <label for="districts_id">Kecamatan</label>
-                                                                <select name="districts_id" id="districts_id" class="form-control" v-if="districts" v-model="districts_id">
-                                                                <option v-for="district in districts" :value="district.id">@{{ district.name }}</option>
-                                                                </select>
-                                                                <select v-else class="form-control"></select>
-                                                            </div>
-                                                            </div>
                                                         <div class="col-md-4">
                                                             <div
                                                                 class="form-group"
@@ -142,6 +133,16 @@
                                                                 />
                                                             </div>
                                                         </div>
+                                                        <!--  <div class="col-md-4">
+                                                            <div class="form-group">
+                                                                <label for="districts_id">Kecamatan</label>
+                                                                <select name="districts_id" id="districts_id" class="form-control" v-if="districts" v-model="districts_id">
+                                                                <option v-for="district in districts" :value="district.id">@{{ district.name }}</option>
+                                                                </select>
+                                                                <select v-else class="form-control"></select>
+                                                            </div>
+                                                            </div> -->
+
                                                     </div>
                                                     <div class="row">
                                                         <div
